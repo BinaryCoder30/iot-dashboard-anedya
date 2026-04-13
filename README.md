@@ -160,5 +160,3 @@ Nimish Soneji
 
 🎓 Institute of Infrastructure, Technology, Research And Management
 
-
-### Auth
