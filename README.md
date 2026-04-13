@@ -110,11 +110,10 @@ PUT /api/users/deactivate/:id
 ### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### 📈 Chart
-![Chart](screenshots/chart.png)
+### 📈 User Management
+![Chart](screenshots/admin.png)
 
-### 🔌 Relay Control
-![Relay](screenshots/relay.png)
+
 
 ## 🎥 Demo 
 
