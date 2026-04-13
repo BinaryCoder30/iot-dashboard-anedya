@@ -102,21 +102,22 @@ PUT /api/users/deactivate/:id
 
 
 ---
-
 ## 🖼️ Screenshots
 
-> Add screenshots here after uploading images to GitHub
+### 🔐 Login Page
+![Login](screenshots/login.png)
 
-- Login Page  
-- Dashboard  
-- Charts  
-- Relay Control  
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
 
----
+### 📈 Chart
+![Chart](screenshots/chart.png)
 
-## 🎥 Demo Video
+### 🔌 Relay Control
+![Relay](screenshots/relay.png)
 
-👉 Add your YouTube demo link here
+## 🎥 Demo 
+
 
 ---
 
