@@ -114,10 +114,6 @@ PUT /api/users/deactivate/:id
 ![Chart](screenshots/admin.png)
 
 
-
-## 🎥 Demo 
-
-
 ---
 
 ## 🛠️ Setup Instructions
